@@ -1,0 +1,25 @@
+.footer{
+    background-color: rgb(75, 0, 160);
+    color: beige;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium';
+    }
+
+
+    .navbar .titulodonossosite{
+        margin-left: 41%;
+        font-size: 50px;
+        color: white;
+        font-family: 'Franklin Gothic Medium';
+    }
+    .navbar{
+    background-color: rgb(75, 0, 160);
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    }
+    
+    
